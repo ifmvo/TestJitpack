@@ -1,0 +1,2 @@
+include ':app', ':testjitpack1', ':testjitpack2', ':testjitpack3'
+rootProject.name='TestJitpack'
