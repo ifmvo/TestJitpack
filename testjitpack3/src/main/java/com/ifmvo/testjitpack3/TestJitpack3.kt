@@ -1,5 +1,7 @@
 package com.ifmvo.testjitpack3
 
+import com.ifmvo.testjitpack1.TestJitpack1
+
 /* 
  * (●ﾟωﾟ●)
  * 
@@ -8,7 +10,7 @@ package com.ifmvo.testjitpack3
 object TestJitpack3 {
 
     fun print3() {
-
+        TestJitpack1.print1()
     }
 
 }
